@@ -1,0 +1,8 @@
+[user]
+	email = kamilcha@gmail.com
+	name = Kamil Chalczyński
+[core]
+	quotepath = off
+[core]
+	autocrlf = true
+	commentChar = ";"
