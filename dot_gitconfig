@@ -2,7 +2,7 @@
 	email = kamilcha@gmail.com
 	name = Kamil Chalczyński
 [core]
-	quotepath = off
-[core]
 	autocrlf = input
+	eol=lf
+	quotepath = off
 	commentChar = ";"
