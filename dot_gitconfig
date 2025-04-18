@@ -4,5 +4,5 @@
 [core]
 	quotepath = off
 [core]
-	autocrlf = true
+	autocrlf = input
 	commentChar = ";"
